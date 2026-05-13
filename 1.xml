@@ -54,7 +54,7 @@
 /* ============================================================
    CONFIG
    ============================================================ */
-const BUILD_URL  = "https://cdn.jsdelivr.net/gh/bodrumkat/67@main/Build";
+const BUILD_URL  = "https://cdn.jsdelivr.net/gh/bodrumkat/67@2a16bcd/Build";
 const DATA_FILE  = "attNew2026 (49).data.br";
 const WASM_FILE  = "attNew2026 (49).wasm.br";
 const DATA_PARTS = 8;
